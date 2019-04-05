@@ -1,0 +1,14 @@
+You have recieved a contact form from:
+{{ name }}
+
+You can contact them back at:
+
+{{ email }}
+
+They are interested in the following services:
+
+{{ service }}
+
+This is more information on what they need:
+
+{{ message }}
